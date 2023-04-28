@@ -1,0 +1,503 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.9.9)  17 FEB 2017 18:29
+entering extended mode
+**./project2_averheye.tex
+(project2_averheye.tex
+LaTeX2e <2015/10/01> patch level 2
+Babel <3.9n> and hyphenation patterns for 74 languages loaded.
+(ieeeconf.cls
+Document Class: ieeeconf 2016/4/23 revision V1.6b by Pradeep Misra
+\@IEEEtrantmpdimenA=\dimen102
+\@IEEEtrantmpdimenB=\dimen103
+\@IEEEtrantmpcountA=\count79
+\@IEEEtrantmpcountB=\count80
+\@IEEEtrantmptoksA=\toks14
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 794.
+
+("C:\Program Files\MiKTeX\tex\latex\psnfss\ot1ptm.fd"
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+\@IEEEnormalsizefontbaselineskip=\skip41
+
+-- This is a 10 point document.
+\normalsizebaselineskip=\skip42
+\normaljot=\skip43
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1113.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1113.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1113.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1113.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1113.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1113.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1113.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1113.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1113.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1113.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <11> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1113.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <11> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1113.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1113.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1113.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <16> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1113.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <16> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1113.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <20> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1113.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <20> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1113.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <24> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1113.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <24> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1113.
+
+\IEEEilabelindentA=\dimen104
+\IEEEilabelindentB=\dimen105
+\IEEEilabelindent=\dimen106
+\IEEEelabelindent=\dimen107
+\IEEEdlabelindent=\dimen108
+\labelindent=\dimen109
+\IEEEiednormlabelsep=\dimen110
+\IEEEiedmathlabelsep=\dimen111
+\IEEEiedtopsep=\skip44
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@IEEEsubequation=\count85
+\abovecaptionskip=\skip45
+\belowcaptionskip=\skip46
+\c@figure=\count86
+\c@table=\count87
+\@IEEEeqnnumcols=\count88
+\@IEEEeqncolcnt=\count89
+\@IEEEtmpitemindent=\dimen112
+\c@biography=\count90
+\@IEEEtranrubishbin=\box26
+)
+** ATTENTION: Overriding command lockouts (line 9).
+** ATTENTION: Overriding IEEE standard margins (line 12).
+("C:\Program Files\MiKTeX\tex\latex\graphics\graphics.sty"
+Package: graphics 2014/10/28 v1.0p Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 94.
+
+("C:\Program Files\MiKTeX\tex\latex\pdftex-def\pdftex.def"
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+("C:\Program Files\MiKTeX\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+("C:\Program Files\MiKTeX\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count91
+))
+("C:\Program Files\MiKTeX\tex\latex\graphics\epsfig.sty"
+Package: epsfig 1999/02/16 v1.7a (e)psfig emulation (SPQR)
+
+("C:\Program Files\MiKTeX\tex\latex\graphics\graphicx.sty"
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX\tex\latex\graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+\Gin@req@height=\dimen113
+\Gin@req@width=\dimen114
+)
+\epsfxsize=\dimen115
+\epsfysize=\dimen116
+)
+("C:\Program Files\MiKTeX\tex\latex\psnfss\mathptmx.sty"
+Package: mathptmx 2005/04/12 PSNFSS-v9.2a Times w/ Math, improved (SPQR, WaS) 
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 28.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/ztmcm/m/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/ztmcm/m/n on input line 28.
+LaTeX Font Info:    Redeclaring symbol font `letters' on input line 29.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/ztmcm/m/it on input line 29.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/ztmcm/m/it on input line 29.
+LaTeX Font Info:    Redeclaring symbol font `symbols' on input line 30.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/ztmcm/m/n on input line 30.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/ztmcm/m/n on input line 30.
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 31.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/ztmcm/m/n on input line 31.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/ztmcm/m/n on input line 31.
+\symbold=\mathgroup4
+\symitalic=\mathgroup5
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/ptm/bx/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/ptm/bx/n on input line 34.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/ptm/m/it on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/ptm/m/it on input line 35.
+LaTeX Info: Redefining \hbar on input line 50.
+)
+("C:\Program Files\MiKTeX\tex\latex\psnfss\times.sty"
+Package: times 2005/04/12 PSNFSS-v9.2a (SPQR) 
+)
+("C:\Program Files\MiKTeX\tex\latex\amsmath\amsmath.sty"
+Package: amsmath 2013/01/14 v2.14 AMS math features
+\@mathmargin=\skip47
+
+For additional information on amsmath, use the `?' option.
+("C:\Program Files\MiKTeX\tex\latex\amsmath\amstext.sty"
+Package: amstext 2000/06/29 v2.01
+
+("C:\Program Files\MiKTeX\tex\latex\amsmath\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks16
+\ex@=\dimen117
+))
+("C:\Program Files\MiKTeX\tex\latex\amsmath\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen118
+)
+("C:\Program Files\MiKTeX\tex\latex\amsmath\amsopn.sty"
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count92
+LaTeX Info: Redefining \frac on input line 210.
+\uproot@=\count93
+\leftroot@=\count94
+LaTeX Info: Redefining \overline on input line 306.
+\classnum@=\count95
+\DOTSCASE@=\count96
+LaTeX Info: Redefining \ldots on input line 378.
+LaTeX Info: Redefining \dots on input line 381.
+LaTeX Info: Redefining \cdots on input line 466.
+\Mathstrutbox@=\box27
+\strutbox@=\box28
+\big@size=\dimen119
+LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
+\macc@depth=\count97
+\c@MaxMatrixCols=\count98
+\dotsspace@=\muskip10
+\c@parentequation=\count99
+\dspbrk@lvl=\count100
+\tag@help=\toks17
+\row@=\count101
+\column@=\count102
+\maxfields@=\count103
+\andhelp@=\toks18
+\eqnshift@=\dimen120
+\alignsep@=\dimen121
+\tagshift@=\dimen122
+\tagwidth@=\dimen123
+\totwidth@=\dimen124
+\lineht@=\dimen125
+\@envbody=\toks19
+\multlinegap=\skip48
+\multlinetaggap=\skip49
+\mathdisplay@stack=\toks20
+LaTeX Info: Redefining \[ on input line 2665.
+LaTeX Info: Redefining \] on input line 2666.
+)
+("C:\Program Files\MiKTeX\tex\latex\amsfonts\amssymb.sty"
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+("C:\Program Files\MiKTeX\tex\latex\amsfonts\amsfonts.sty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup6
+\symAMSb=\mathgroup7
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+("C:\Program Files\MiKTeX\tex\latex\float\float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count104
+\float@exts=\toks21
+\float@box=\box29
+\@float@everytoks=\toks22
+\@floatcapt=\box30
+) (project2_averheye.aux)
+\openout1 = `project2_averheye.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+
+("C:\Program Files\MiKTeX\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count105
+\scratchdimen=\dimen126
+\scratchbox=\box31
+\nofMPsegments=\count106
+\nofMParguments=\count107
+\everyMPshowfont=\toks23
+\MPscratchCnt=\count108
+\MPscratchDim=\dimen127
+\MPnumerator=\count109
+\makeMPintoPDFobject=\count110
+\everyMPtoPDFconversion=\toks24
+) <proj2_platform1.jpg, id=1, 1032.9792pt x 686.0832pt>
+File: proj2_platform1.jpg Graphic file (type jpg)
+
+<use proj2_platform1.jpg>
+Package pdftex.def Info: proj2_platform1.jpg used on input line 62.
+(pdftex.def)             Requested size: 216.93204pt x 144.08173pt.
+LaTeX Font Info:    Try loading font information for OT1+ztmcm on input line 62
+.
+ ("C:\Program Files\MiKTeX\tex\latex\psnfss\ot1ztmcm.fd"
+File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
+)
+LaTeX Font Info:    Try loading font information for OML+ztmcm on input line 62
+.
+ ("C:\Program Files\MiKTeX\tex\latex\psnfss\omlztmcm.fd"
+File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
+)
+LaTeX Font Info:    Try loading font information for OMS+ztmcm on input line 62
+.
+
+("C:\Program Files\MiKTeX\tex\latex\psnfss\omsztmcm.fd"
+File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
+)
+LaTeX Font Info:    Try loading font information for OMX+ztmcm on input line 62
+.
+
+("C:\Program Files\MiKTeX\tex\latex\psnfss\omxztmcm.fd"
+File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
+)
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 62.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 62.
+ [1{C:/Users/User/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
+
+
+ <./proj2_platform1.jpg>]
+<distribution-illustration.png, id=15, 431.81325pt x 203.5605pt>
+File: distribution-illustration.png Graphic file (type png)
+
+<use distribution-illustration.png>
+Package pdftex.def Info: distribution-illustration.png used on input line 114.
+(pdftex.def)             Requested size: 215.90608pt x 101.78pt.
+ [2 <./distribution-illustration.png>]
+<panorama_vicon_8_crop.png, id=20, 1927.2pt x 620.3175pt>
+File: panorama_vicon_8_crop.png Graphic file (type png)
+
+<use panorama_vicon_8_crop.png>
+Package pdftex.def Info: panorama_vicon_8_crop.png used on input line 174.
+(pdftex.def)             Requested size: 505.88289pt x 142.26302pt.
+
+<panorama_vicon_8_no_overwrite.png, id=21, 1926.19624pt x 620.3175pt>
+File: panorama_vicon_8_no_overwrite.png Graphic file (type png)
+
+<use panorama_vicon_8_no_overwrite.png>
+Package pdftex.def Info: panorama_vicon_8_no_overwrite.png used on input line 1
+80.
+(pdftex.def)             Requested size: 505.88393pt x 142.26302pt.
+ [3]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+<compare1.png, id=25, 1192.455pt x 627.5445pt>
+File: compare1.png Graphic file (type png)
+ <use compare1.png>
+Package pdftex.def Info: compare1.png used on input line 196.
+(pdftex.def)             Requested size: 505.886pt x 142.26387pt.
+
+<compare2.png, id=27, 839.5365pt x 330.033pt>
+File: compare2.png Graphic file (type png)
+ <use compare2.png>
+Package pdftex.def Info: compare2.png used on input line 202.
+(pdftex.def)             Requested size: 505.89073pt x 142.26393pt.
+
+<compare3.png, id=28, 1211.727pt x 593.8185pt>
+File: compare3.png Graphic file (type png)
+ <use compare3.png>
+Package pdftex.def Info: compare3.png used on input line 208.
+(pdftex.def)             Requested size: 505.8896pt x 142.25658pt.
+
+<compare4.png, id=29, 1211.727pt x 593.8185pt>
+File: compare4.png Graphic file (type png)
+ <use compare4.png>
+Package pdftex.def Info: compare4.png used on input line 214.
+(pdftex.def)             Requested size: 505.8896pt x 142.25658pt.
+File: compare3.png Graphic file (type png)
+
+<use compare3.png>
+Package pdftex.def Info: compare3.png used on input line 220.
+(pdftex.def)             Requested size: 505.8896pt x 142.25658pt.
+File: compare3.png Graphic file (type png)
+ <use compare3.png>
+Package pdftex.def Info: compare3.png used on input line 226.
+(pdftex.def)             Requested size: 505.8896pt x 142.25658pt.
+File: compare3.png Graphic file (type png)
+ <use compare3.png>
+Package pdftex.def Info: compare3.png used on input line 232.
+(pdftex.def)             Requested size: 505.8896pt x 142.25658pt.
+File: compare3.png Graphic file (type png)
+ <use compare3.png>
+Package pdftex.def Info: compare3.png used on input line 238.
+(pdftex.def)             Requested size: 505.8896pt x 142.25658pt.
+File: compare3.png Graphic file (type png)
+
+<use compare3.png>
+Package pdftex.def Info: compare3.png used on input line 244.
+(pdftex.def)             Requested size: 505.8896pt x 142.25658pt.
+ <panorama8.png, id=30, 1927.2pt x 963.6pt>
+File: panorama8.png Graphic file (type png)
+
+<use panorama8.png>
+Package pdftex.def Info: panorama8.png used on input line 250.
+(pdftex.def)             Requested size: 505.88289pt x 284.5242pt.
+ [4 <./panorama_vicon_8_crop.png (PNG copy)> <./panorama_vicon_8_no_overwrite.p
+ng (PNG copy)>] <test10.png, id=34, 850.6179pt x 831.105pt>
+File: test10.png Graphic file (type png)
+
+<use test10.png>
+Package pdftex.def Info: test10.png used on input line 259.
+(pdftex.def)             Requested size: 238.17139pt x 232.70781pt.
+
+Overfull \hbox (21.36139pt too wide) in paragraph at lines 259--259
+[][] 
+ []
+
+<test11.png, id=35, 850.6179pt x 831.105pt>
+File: test11.png Graphic file (type png)
+ <use test11.png>
+Package pdftex.def Info: test11.png used on input line 267.
+(pdftex.def)             Requested size: 238.17139pt x 232.70781pt.
+
+Overfull \hbox (21.36139pt too wide) in paragraph at lines 267--267
+[][] 
+ []
+
+<test12.png, id=36, 850.6179pt x 831.105pt>
+File: test12.png Graphic file (type png)
+ <use test12.png>
+Package pdftex.def Info: test12.png used on input line 275.
+(pdftex.def)             Requested size: 238.17139pt x 232.70781pt.
+
+Overfull \hbox (21.36139pt too wide) in paragraph at lines 275--275
+[][] 
+ []
+
+<test13.png, id=37, 850.6179pt x 831.105pt>
+File: test13.png Graphic file (type png)
+ <use test13.png>
+Package pdftex.def Info: test13.png used on input line 283.
+(pdftex.def)             Requested size: 238.17139pt x 232.70781pt.
+
+Overfull \hbox (21.36139pt too wide) in paragraph at lines 283--283
+[][] 
+ []
+
+<panorama10.png, id=38, 1927.2pt x 963.6pt>
+File: panorama10.png Graphic file (type png)
+ <use panorama10.png>
+Package pdftex.def Info: panorama10.png used on input line 290.
+(pdftex.def)             Requested size: 505.88289pt x 142.25475pt.
+
+<panorama11.png, id=39, 1927.2pt x 963.6pt>
+File: panorama11.png Graphic file (type png)
+ <use panorama11.png>
+Package pdftex.def Info: panorama11.png used on input line 296.
+(pdftex.def)             Requested size: 505.88289pt x 142.25475pt.
+
+<panorama12.png, id=40, 1927.2pt x 963.6pt>
+File: panorama12.png Graphic file (type png)
+ <use panorama12.png>
+Package pdftex.def Info: panorama12.png used on input line 302.
+(pdftex.def)             Requested size: 505.88289pt x 142.25475pt.
+
+<panorama13.png, id=41, 1927.2pt x 963.6pt>
+File: panorama13.png Graphic file (type png)
+ <use panorama13.png>
+Package pdftex.def Info: panorama13.png used on input line 308.
+(pdftex.def)             Requested size: 505.88289pt x 142.25475pt.
+Missing character: There is no Ã in font ptmr7t!
+Missing character: There is no ’ in font ptmr7t!
+
+
+** Conference Paper **
+Before submitting the final camera ready copy, remember to:
+
+ 1. Manually equalize the lengths of two columns on the last page
+ of your paper;
+
+ 2. Ensure that any PostScript and/or PDF output post-processing
+ uses only Type 1 fonts and that every step in the generation
+ process uses the US letter (8.5in X 11in) paper size.
+
+
+Overfull \vbox (132.66397pt too high) has occurred while \output is active []
+
+
+[5 <./compare1.png> <./compare2.png> <./compare3.png>] [6 <./compare4.png>]
+[7] [8 <./panorama8.png (PNG copy)>] [9 <./test10.png> <./test11.png> <./test12
+.png> <./test13.png>] [10 <./panorama10.png (PNG copy)> <./panorama11.png (PNG 
+copy)> <./panorama12.png (PNG copy)>] [11 <./panorama13.png (PNG copy)>]
+(project2_averheye.aux) ) 
+Here is how much of TeX's memory you used:
+ 2845 strings out of 493352
+ 39245 string characters out of 3141091
+ 110384 words of memory out of 3000000
+ 6313 multiletter control sequences out of 15000+200000
+ 46735 words of font info for 97 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 30i,10n,26p,2415b,287s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files/MiKTeX/fonts/enc/dvips/fontname/8r.e
+nc}<C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Progr
+am Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiK
+TeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX/fonts/typ
+e1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/symbo
+l/usyr.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/symbol/usyr.pfb><C:/Program
+ Files/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files/MiKTeX/fonts/t
+ype1/urw/times/utmbi8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/times/utmr8
+a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
+Output written on project2_averheye.pdf (11 pages, 15797081 bytes).
+PDF statistics:
+ 102 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 86 words of extra memory for PDF output out of 10000 (max. 10000000)
+
