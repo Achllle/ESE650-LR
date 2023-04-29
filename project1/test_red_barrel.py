@@ -11,10 +11,12 @@ from red_barrel_detector import RedBarrelDetector
 # training and testing parameters
 #################################
 # folder that contains the training images
-training_folder = "D:/Penn/2/ESE650-LR/project1/Proj1_Train_alternative/training"
+curr_folder = os.path.dirname(os.path.realpath(__file__))
+training_folder = os.path.join(curr_folder, "Proj1_Train_alternative/train")
+
 
 ########################## SET THIS VARIABLE ##################################
-testing_folder = "D:/Penn/2/ESE650-LR/project1/testset" 
+testing_folder = os.path.join(curr_folder, "testset" )
 ###############################################################################
 
 # set this to True if you want to train the model. If you want to test new
@@ -25,6 +27,7 @@ train_distances = False
 # been modeled don't have to be retrained. Colors that are already present
 # will be overwritten
 training_colors = ['barrel_red', 'brown', 'other_red']
+# training_colors = ['brown']
 # specify the number of Gaussian mixtures
 nb_mixtures = 2
 

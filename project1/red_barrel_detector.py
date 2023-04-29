@@ -33,7 +33,7 @@ class RedBarrelDetector(object):
             self.load_original_image(img_path)
             self.load_image()
         try:
-            self.colormodels = np.load(self.color_models_filename)[()]
+            self.colormodels = np.load(self.color_models_filename, allow_pickle=True)[()]
         except FileNotFoundError:
             self.colormodels = None
         try:
@@ -95,7 +95,7 @@ class RedBarrelDetector(object):
             dont_skip = True
             try:
                 xy = plt.ginput(4)
-                if len(xy) is not 4:
+                if len(xy) != 4:
                     raise ValueError
                 xy_np = np.array(xy)
             except ValueError: # pressed enter, no pixels with that color
@@ -279,7 +279,7 @@ class RedBarrelDetector(object):
                 masks of where barrels are located
         """
         # make a copy of self.red_barrel_pix as findContours modifies the
-        # original image
+        # original image EDIT not anymore since OpenCV 3.2
         binary_img = self.red_barrel_pix.copy().astype('uint8')
         # connect components that are close?
         # closing
@@ -291,8 +291,9 @@ class RedBarrelDetector(object):
         
         # use cv2.CHAIN_APPROX_NONE for a closed region. Simple leaves out the
         # points that are along a straight line and thus saves memory
-        _, contours, _ = cv2.findContours(opening, cv2.RETR_EXTERNAL,
+        contours, _ = cv2.findContours(opening, cv2.RETR_EXTERNAL,
                                     cv2.CHAIN_APPROX_SIMPLE)
+        contours = list(contours)
         
         # remove tiny blobs: based on size relative to largest blob
         # find largest contour
@@ -357,7 +358,7 @@ class RedBarrelDetector(object):
                     
             test_mask = np.zeros(opening.shape)
             # find contours in mask image so we can find the convex hull
-            _, mask_contours, _ = cv2.findContours(mask, cv2.RETR_EXTERNAL,
+            mask_contours, _ = cv2.findContours(mask, cv2.RETR_EXTERNAL,
                                     cv2.CHAIN_APPROX_SIMPLE)
             # combine the contours to a single array
             single_contour = mask_contours[0]
@@ -374,7 +375,7 @@ class RedBarrelDetector(object):
         for contour in new_contours:
             cv2.drawContours(all_barrels,[contour],0,1,-1)
         all_barrels = all_barrels.astype('uint8')
-        _, final_contours, _ = cv2.findContours(all_barrels, cv2.RETR_EXTERNAL,
+        final_contours, _ = cv2.findContours(all_barrels, cv2.RETR_EXTERNAL,
                                     cv2.CHAIN_APPROX_SIMPLE)                
 
         # after combining, check contours for size
